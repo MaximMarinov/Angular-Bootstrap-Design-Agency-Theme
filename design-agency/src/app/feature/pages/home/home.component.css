@@ -1,0 +1,31 @@
+section {
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background: linear-gradient(rgba(16, 51, 166, 0.8), rgba(16, 51, 166, 0.8)), url('/design-agency/src/assets/images/hero.jpg');
+    display: flex;
+    align-items: center;
+}
+
+section h1 {
+    font-weight: 700;
+}
+
+section p {
+    max-width: 550px;
+    margin: 18px auto;
+}
+
+.btn {
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 12px 28px;
+    border-radius: 0;
+}
+
+.btn-brand {
+    background-color: #daa520;
+    color: white;
+}
