@@ -1,5 +1,5 @@
 # Design Agency
-Angular app styled with Bootstrap.
+Angular theme styled with Bootstrap.
 
 # Live Version
 https://design-agency-maksim-marinov.netlify.app/
