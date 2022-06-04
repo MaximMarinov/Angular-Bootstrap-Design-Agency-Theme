@@ -3,7 +3,7 @@ section {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    background: linear-gradient(rgba(16, 51, 166, 0.8), rgba(16, 51, 166, 0.8)), url('/design-agency/src/assets/images/hero.jpg');
+    background: linear-gradient(rgba(16, 51, 166, 0.8), rgba(16, 51, 166, 0.8)), url('/assets/images/hero.jpg');
     display: flex;
     align-items: center;
 }

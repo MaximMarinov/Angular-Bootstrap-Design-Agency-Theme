@@ -19,6 +19,6 @@ a {
     letter-spacing: 1px;
 }
 
-.nav-link:active{
-    color: #daa520;
+.nav-link.active{
+    color: #b114a0;
 }
