@@ -1,0 +1,21 @@
+form .form-control {
+    border-radius: 0;
+}
+
+form .form-control:focus {
+    box-shadow: none;
+    border-color: #b114a0;
+}
+
+.btn {
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 12px 28px;
+    border-radius: 0;
+}
+
+.btn-brand {
+    background-color: #b114a0;
+    color: white;
+}
