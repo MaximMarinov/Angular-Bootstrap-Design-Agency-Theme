@@ -4,12 +4,14 @@ import { HomeComponent } from './pages/home/home.component';
 import { ServicesComponent } from './pages/services/services.component';
 import { RouterModule } from '@angular/router';
 import { PortfolioComponent } from './pages/portfolio/portfolio.component';
+import { TeamComponent } from './pages/team/team.component';
 
 @NgModule({
   declarations: [
     HomeComponent,
     ServicesComponent,
-    PortfolioComponent
+    PortfolioComponent,
+    TeamComponent
   ],
   imports: [
     CommonModule,
