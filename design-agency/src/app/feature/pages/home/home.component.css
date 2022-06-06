@@ -3,7 +3,11 @@ section {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    background: linear-gradient(rgba(0, 33, 143, 0.099), rgba(16, 51, 166, 0.603));
+    background: rgb(2,0,36);
+background: -moz-linear-gradient(180deg, rgba(2,0,36,1) 10%, rgba(16,52,166,1) 74%, rgba(0,212,255,1) 100%);
+background: -webkit-linear-gradient(180deg, rgba(2,0,36,1) 10%, rgba(16,52,166,1) 74%, rgba(0,212,255,1) 100%);
+background: linear-gradient(180deg, rgba(2,0,36,1) 10%, rgba(16,52,166,1) 74%, rgba(0,212,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1);
     display: flex;
     align-items: center;
 }
